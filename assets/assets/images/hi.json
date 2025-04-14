@@ -1,0 +1,38 @@
+{
+    "players": [
+        {
+            "player": "John Doe",
+            "clubs": [
+                {
+                    "club": "Driver",
+                    "swingStrength": "12 o'clock",
+                    "distance": 300,
+                    "area": "meter"
+                },
+                {
+                    "club": "3 Wood",
+                    "swingStrength": "11 o'clock",
+                    "distance": 280,
+                    "area": "yerds"
+                }
+            ]
+        },
+        {
+            "player": "Jane Smith",
+            "clubs": [
+                {
+                    "club": "Driver",
+                    "swingStrength": "12 o'clock",
+                    "distance": 300,
+                    "area": "meter"
+                },
+                {
+                    "club": "3 Wood",
+                    "swingStrength": "11 o'clock",
+                    "distance": 280,
+                    "area": "yerds"
+                }
+            ]
+        }
+    ]
+}
